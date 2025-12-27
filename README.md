@@ -6,7 +6,7 @@ Building scalable applications with modern web technologies and cloud infrastruc
 </p>
 
 <p align="center">
-Currently pursuing MS in Computer Science at University of the Cumberlands.
+Currently pursuing Master's in Computer Science at Texas A&M Univeristy.
 </p>
 
 ---
